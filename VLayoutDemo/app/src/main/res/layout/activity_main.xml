@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/linearLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="LinearLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/gridLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="GridLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/staggeredGridLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="StaggeredGridLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/fixLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="FixLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/scrollFixLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="ScrollFixLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/columnLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="ColumnLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/singleLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="SingleLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/onePlusNLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="OnePlusNLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/floatLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="FloatLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/stickyLayoutHelper"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="StickyLayoutHelper"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/all"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="All"
+            android:textAllCaps="false"
+            android:onClick="onClick"/>
+        <Button
+            android:id="@+id/jd_normal"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textAllCaps="false"
+            android:text="JD Home normal"
+            android:onClick="onClick"/>
+        <Button
+            android:id="@+id/jd_vlayout"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="JD Home vlayout"
+            android:textAllCaps="false"
+            android:onClick="onClick"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
