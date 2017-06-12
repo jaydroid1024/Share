@@ -1,4 +1,5 @@
 ###相关文章
+* [Kotlin 资源大全 - 学 Kotlin 看这一篇教程就够了](https://juejin.im/post/591dd9f544d904006c9fbb96)
 * [kotlin-for-android简介](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/kotlin-for-android%E7%AE%80%E4%BB%8B)
 * [使用Kotlin开发Android应用](http://www.jianshu.com/p/b6a2cda2f806)
 * [使用Kotlin开发Android](http://kymjs.com/code/2015/07/22/01/)
